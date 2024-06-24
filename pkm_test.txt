@@ -1,0 +1,246 @@
+|j|☆AresDespa
+|j|☆S2EGOD
+|t:|1718013587
+|gametype|singles
+|player|p1|AresDespa|veteran-gen4|
+|player|p2|S2EGOD|1|
+|teamsize|p1|6
+|teamsize|p2|6
+|gen|9
+|tier|[Gen 9] Random Battle
+|rule|Species Clause: Limit one of each Pokémon
+|rule|HP Percentage Mod: HP is shown in percentages
+|rule|Sleep Clause Mod: Limit one foe put to sleep
+|rule|Illusion Level Mod: Illusion disguises the Pokémon's true level
+|
+|t:|1718013587
+|start
+|switch|p1a: Miraidon|Miraidon, L65|100\/100
+|switch|p2a: Annihilape|Annihilape, L76, F|100\/100
+|-fieldstart|move: Electric Terrain|[from] ability: Hadron Engine|[of] p1a: Miraidon
+|turn|1
+|c|☆S2EGOD|!weak Miraidon
+|c| S2EGOD|\/raw <div class="infobox">Miraidon (ignoring abilities):<br \/><span class="message-effect-weak">Weaknesses<\/span>: Dragon, Fairy, Ground, Ice<br \/><span class="message-effect-resist">Resistances<\/span>: <b>Electric<\/b>, Fire, Flying, Grass, Steel, Water<br \/><span class="message-effect-immune">Immunities<\/span>: Paralysis<\/div>
+|
+|t:|1718013651
+|switch|p2a: Grimmsnarl|Grimmsnarl, L83, M|100\/100
+|move|p1a: Miraidon|Electro Drift|p2a: Grimmsnarl
+|-damage|p2a: Grimmsnarl|12\/100
+|
+|-heal|p2a: Grimmsnarl|19\/100|[from] item: Leftovers
+|upkeep
+|turn|2
+|
+|t:|1718013676
+|move|p2a: Grimmsnarl|Sucker Punch|p1a: Miraidon
+|-damage|p1a: Miraidon|58\/100
+|move|p1a: Miraidon|Electro Drift|p2a: Grimmsnarl
+|-damage|p2a: Grimmsnarl|0 fnt
+|faint|p2a: Grimmsnarl
+|
+|upkeep
+|
+|t:|1718013741
+|switch|p2a: Tinkaton|Tinkaton, L82, F|100\/100
+|-ability|p2a: Tinkaton|Mold Breaker
+|turn|3
+|
+|t:|1718013748
+|-terastallize|p1a: Miraidon|Electric
+|move|p1a: Miraidon|Electro Drift|p2a: Tinkaton
+|-damage|p2a: Tinkaton|2\/100
+|move|p2a: Tinkaton|Swords Dance|p2a: Tinkaton
+|-boost|p2a: Tinkaton|atk|2
+|
+|upkeep
+|turn|4
+|
+|t:|1718013775
+|move|p1a: Miraidon|Electro Drift|p2a: Tinkaton
+|-damage|p2a: Tinkaton|0 fnt
+|faint|p2a: Tinkaton
+|
+|upkeep
+|
+|t:|1718013979
+|switch|p2a: Mesprit|Mesprit, L85|100\/100
+|turn|5
+|
+|t:|1718014002
+|move|p1a: Miraidon|Electro Drift|p2a: Mesprit
+|-damage|p2a: Mesprit|41\/100
+|move|p2a: Mesprit|Knock Off|p1a: Miraidon
+|-damage|p1a: Miraidon|23\/100
+|-enditem|p1a: Miraidon|Choice Specs|[from] move: Knock Off|[of] p2a: Mesprit
+|
+|-fieldend|move: Electric Terrain
+|upkeep
+|turn|6
+|
+|t:|1718014040
+|move|p1a: Miraidon|Electro Drift|p2a: Mesprit
+|-damage|p2a: Mesprit|15\/100
+|move|p2a: Mesprit|Drain Punch|p1a: Miraidon
+|-damage|p1a: Miraidon|0 fnt
+|-heal|p2a: Mesprit|24\/100|[from] drain|[of] p1a: Miraidon
+|faint|p1a: Miraidon
+|
+|upkeep
+|
+|t:|1718014060
+|switch|p1a: Veluza|Veluza, L85, M|100\/100
+|turn|7
+|
+|t:|1718014182
+|move|p2a: Mesprit|U-turn|p1a: Veluza
+|-supereffective|p1a: Veluza
+|-damage|p1a: Veluza|56\/100
+|
+|t:|1718014203
+|switch|p2a: Latias|Latias, L79, F|100\/100|[from] U-turn
+|move|p1a: Veluza|Night Slash|p2a: Latias
+|-supereffective|p2a: Latias
+|-damage|p2a: Latias|38\/100
+|
+|upkeep
+|turn|8
+|
+|t:|1718014252
+|switch|p1a: Magnezone|Magnezone, L85|100\/100
+|move|p2a: Latias|Draco Meteor|p1a: Magnezone
+|-resisted|p1a: Magnezone
+|-damage|p1a: Magnezone|79\/100
+|-unboost|p2a: Latias|spa|2
+|
+|upkeep
+|turn|9
+|
+|t:|1718014304
+|move|p2a: Latias|Aura Sphere|p1a: Magnezone
+|-supereffective|p1a: Magnezone
+|-damage|p1a: Magnezone|64\/100
+|move|p1a: Magnezone|Flash Cannon|p2a: Latias
+|-damage|p2a: Latias|5\/100
+|
+|upkeep
+|turn|10
+|
+|t:|1718014341
+|switch|p2a: Scizor|Scizor, L79, M|100\/100
+|move|p1a: Magnezone|Flash Cannon|p2a: Scizor
+|-resisted|p2a: Scizor
+|-damage|p2a: Scizor|75\/100
+|
+|upkeep
+|turn|11
+|
+|t:|1718014364
+|move|p1a: Magnezone|Thunderbolt|p2a: Scizor
+|-damage|p2a: Scizor|16\/100
+|move|p2a: Scizor|Knock Off|p1a: Magnezone
+|-damage|p1a: Magnezone|30\/100
+|-enditem|p1a: Magnezone|Assault Vest|[from] move: Knock Off|[of] p2a: Scizor
+|
+|upkeep
+|turn|12
+|
+|t:|1718014383
+|move|p1a: Magnezone|Thunderbolt|p2a: Scizor
+|-damage|p2a: Scizor|0 fnt
+|faint|p2a: Scizor
+|
+|upkeep
+|
+|t:|1718014390
+|switch|p2a: Latias|Latias, L79, F|5\/100
+|turn|13
+|
+|t:|1718014424
+|move|p2a: Latias|Aura Sphere|p1a: Magnezone
+|-supereffective|p1a: Magnezone
+|-damage|p1a: Magnezone|0 fnt
+|faint|p1a: Magnezone
+|
+|upkeep
+|
+|t:|1718014455
+|switch|p1a: Kleavor|Kleavor, L78, F|100\/100
+|turn|14
+|
+|t:|1718014482
+|move|p2a: Latias|Aura Sphere|p1a: Kleavor
+|-damage|p1a: Kleavor|70\/100
+|move|p1a: Kleavor|Stone Axe|p2a: Latias
+|-damage|p2a: Latias|0 fnt
+|-sidestart|p2: S2EGOD|move: Stealth Rock
+|faint|p2a: Latias
+|
+|upkeep
+|c|☆S2EGOD|!weak Kleavor
+|c| S2EGOD|\/raw <div class="infobox">Kleavor (ignoring abilities):<br \/><span class="message-effect-weak">Weaknesses<\/span>: Rock, Steel, Water<br \/><span class="message-effect-resist">Resistances<\/span>: Normal, Poison<br \/><span class="message-effect-immune">Immunities<\/span>: Sandstorm damage<\/div>
+|
+|t:|1718014544
+|switch|p2a: Mesprit|Mesprit, L85|24\/100
+|-damage|p2a: Mesprit|12\/100|[from] Stealth Rock
+|turn|15
+|
+|t:|1718014578
+|move|p2a: Mesprit|Knock Off|p1a: Kleavor
+|-damage|p1a: Kleavor|38\/100
+|-enditem|p1a: Kleavor|Heavy-Duty Boots|[from] move: Knock Off|[of] p2a: Mesprit
+|move|p1a: Kleavor|Stone Axe|p2a: Mesprit
+|-damage|p2a: Mesprit|0 fnt
+|faint|p2a: Mesprit
+|
+|upkeep
+|
+|t:|1718014587
+|switch|p2a: Annihilape|Annihilape, L76, F|100\/100
+|-damage|p2a: Annihilape|94\/100|[from] Stealth Rock
+|turn|16
+|
+|t:|1718014608
+|move|p2a: Annihilape|Bulk Up|p2a: Annihilape
+|-boost|p2a: Annihilape|atk|1
+|-boost|p2a: Annihilape|def|1
+|move|p1a: Kleavor|X-Scissor|p2a: Annihilape
+|-resisted|p2a: Annihilape
+|-damage|p2a: Annihilape|85\/100
+|
+|upkeep
+|turn|17
+|
+|t:|1718014648
+|switch|p1a: Scovillain|Scovillain, L91, M|100\/100
+|move|p2a: Annihilape|Bulk Up|p2a: Annihilape
+|-boost|p2a: Annihilape|atk|1
+|-boost|p2a: Annihilape|def|1
+|
+|upkeep
+|turn|18
+|
+|t:|1718014680
+|move|p1a: Scovillain|Overheat|p2a: Annihilape|[miss]
+|-miss|p1a: Scovillain|p2a: Annihilape
+|move|p2a: Annihilape|Rage Fist|p1a: Scovillain
+|-damage|p1a: Scovillain|16\/100
+|
+|upkeep
+|turn|19
+|
+|t:|1718014695
+|move|p1a: Scovillain|Overheat|p2a: Annihilape
+|-damage|p2a: Annihilape|0 fnt
+|-unboost|p1a: Scovillain|spa|2
+|faint|p2a: Annihilape
+|
+|win|AresDespa
+|l|☆S2EGOD
+|player|p2|
+|j|☆S2EGOD
+|player|p2|S2EGOD|1|
+|l|☆S2EGOD
+|player|p2|
+
+|player|p2|
+|j|☆S2EGOD
