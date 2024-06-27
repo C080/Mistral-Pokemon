@@ -1,6 +1,6 @@
 # Mistral-Pokemon
 ![alt text](https://github.com/C080/Mistral-Pokemon/blob/main/funny.png?raw=true)
-This is our entry for the [Mistral Finetune hackathon](https://docs.vllm.ai/en/latest/getting_started/quickstart.html](https://mistral.ai/news/2024-ft-hackathon/)
+This is our entry for the [Mistral Finetune hackathon](https://mistral.ai/news/2024-ft-hackathon/)
 
 
 # Goal
