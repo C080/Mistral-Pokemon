@@ -1,5 +1,5 @@
 # Mistral-Pokemon
-This is our entry for the Mistral Finetune hackathon (https://docs.vllm.ai/en/latest/getting_started/quickstart.html](https://mistral.ai/news/2024-ft-hackathon/)
+This is our entry for the Mistral Finetune hackathon ([https://docs.vllm.ai/en/latest/getting_started/quickstart.html](https://mistral.ai/news/2024-ft-hackathon/])
 
 # Goal
 
