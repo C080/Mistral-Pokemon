@@ -2,6 +2,8 @@
 ![alt text](https://github.com/C080/Mistral-Pokemon/blob/main/funny.png?raw=true)
 This is our entry for the [Mistral Finetune hackathon](https://mistral.ai/news/2024-ft-hackathon/)
 
+[Slides](https://docs.google.com/presentation/d/1hBIy9ZtjIm8fXQe_oAiC43IWELtRK4C2wAb1S1sbCM0/edit?usp=sharing)
+
 
 # Goal
 
